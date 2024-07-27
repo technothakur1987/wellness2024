@@ -20,7 +20,7 @@ A web application showcasing various wellness retreats, allowing users to filter
 Check out the live demo [here](https://wellnessretreat2024.netlify.app/).
 
 ## Git  Hub
-Check out the live demo [here](https://github.com/technothakur1987/wellness3).
+Check out the live demo [here](https://github.com/technothakur1987/wellness2024).
 
 
 
@@ -34,7 +34,7 @@ Ensure you have the following installed on your machine:
 
 ### Installation
 1. **Clone the repository:**
-   git clone https://github.com/technothakur1987/wellness3.git
+   git clone https://github.com/technothakur1987/wellness2024.git
  
 2. **Navigate to the project directory:** 
   cd wellness
