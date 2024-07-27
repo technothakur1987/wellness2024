@@ -10,6 +10,9 @@ A web application showcasing various wellness retreats, allowing users to filter
 - **Meta Tags**: Proper meta tags included for SEO and social media sharing.
 - **Pagination**: Implemented using flowbite-react library.
 - **Custom Fonts**: Includes "Open Sans" and "Source Sans Pro" for different screen sizes.
+- **Accessibility**: I have used alt for images with aria-labels for buttons also for blind people.
+- **LazyLoading and memo: I have used lazyloading for images and memo in componenets to optimize unnecesssary re-renders in app . thus increasing performance of the app
+    
 
 ## Extra-Added Features
 - **Chat Support**: Added feature for live chat support,  to earn bonus points.
